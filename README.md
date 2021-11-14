@@ -6,12 +6,30 @@ This repository is a part of my internship responsibility as a web development i
 
 This task is to determine your understanding of HTML, CSS and JavaScript skills along.
 
-### Setup
+#### IDE:
 
-We believe in an agile work process and collaborate with each other to be on the same page of the development process we use :
+Microsoft Visual Code Studio
 
-IDE: Microsoft Visual Code Studio
+#### Languages used:
 
-### Working
+- HTML5
+- CSS3
+- JavaScript
 
-You have to create a single page website.
+## Task 2- Create a web application using create-react-app
+
+1.  Create a User card grid layout having a navbar showing any brand name
+2.  Add a button in the navbar saying 'Get Users', which makes an API call to get the user data
+3.  Use [https://reqres.in/api/users?page=1](https://www.canva.com/link?target=https%3A%2F%2Freqres.in%2Fapi%2Fusers%3Fpage%3D1&design=DAEhLWUJEDM) to get the data
+4.  Show a loader while the API fetches the data.
+5.  Use custom CSS/SASS/styled-components.
+
+#### IDE:
+
+Microsoft Visual Code Studio
+
+#### Languages used:
+
+- HTML5
+- CSS3
+- ReactJS
